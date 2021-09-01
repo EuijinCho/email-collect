@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/email-collect/static/css/main.a617e044.chunk.css",
+    "main.js": "/email-collect/static/js/main.827f8475.chunk.js",
+    "main.js.map": "/email-collect/static/js/main.827f8475.chunk.js.map",
+    "runtime-main.js": "/email-collect/static/js/runtime-main.b87c7849.js",
+    "runtime-main.js.map": "/email-collect/static/js/runtime-main.b87c7849.js.map",
+    "static/js/2.774c4675.chunk.js": "/email-collect/static/js/2.774c4675.chunk.js",
+    "static/js/2.774c4675.chunk.js.map": "/email-collect/static/js/2.774c4675.chunk.js.map",
+    "static/js/3.33be2496.chunk.js": "/email-collect/static/js/3.33be2496.chunk.js",
+    "static/js/3.33be2496.chunk.js.map": "/email-collect/static/js/3.33be2496.chunk.js.map",
+    "index.html": "/email-collect/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/email-collect/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.774c4675.chunk.js.LICENSE.txt": "/email-collect/static/js/2.774c4675.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/email-collect/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b87c7849.js",
+    "static/js/2.774c4675.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.827f8475.chunk.js"
+  ]
+}
